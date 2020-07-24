@@ -1,0 +1,22 @@
+{
+  "name": "cracking-the-coding-interview",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine --config=jasmine.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PonzyPon/cracking-the-coding-interview.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PonzyPon/cracking-the-coding-interview/issues"
+  },
+  "homepage": "https://github.com/PonzyPon/cracking-the-coding-interview#readme",
+  "devDependencies": {
+    "jasmine": "^3.6.0"
+  }
+}
