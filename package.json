@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/PonzyPon/cracking-the-coding-interview#readme",
   "devDependencies": {
-    "jasmine": "^3.6.0"
+    "jasmine": "^3.99.0"
   },
   "dependencies": {
     "yallist": "^4.0.0"
